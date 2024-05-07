@@ -1,0 +1,5 @@
+set number
+set tabstop=4
+set mouse=a
+syntax on
+colorscheme sonokai 
